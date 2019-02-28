@@ -15,9 +15,6 @@ run the command "maven install" and click enter Key in keyboard
 
 How to use
 -----------
-The SeleniumOSTAF-0.0.1-SNAPSHOT jar generated from the build can be placed anywhere in the system and config.properties file
-need to be in the same directory or folder where the jar is placed.
-
 Tester needs to be fill the configuration details like 
 1. application URL
 2. Browser name
