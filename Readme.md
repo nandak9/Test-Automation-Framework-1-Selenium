@@ -1,6 +1,6 @@
-Selenium OSTAF
+Test Automation frame work using Selenium
 ===============
-Selenium Open Source Testing Automation Framework(OSTAF) is a framework which helps the tester in automating test execution of web applications without 
+Selenium Open Source Testing Automation Framework is a framework which helps the tester in automating test execution of web applications without 
 recording or writing the selenium scripts.
 
 How to build
@@ -44,7 +44,3 @@ Next Sheet is the "CapturedObjectProperties" sheet where we define the propertie
 	iii. Third coloumn is "Property" which define how user is identifying the element like ID, XPATH,CSS and NAME
 	iv.  Fourth one is "Value" which is corresponding to the property. 
 After defining all the webelements user has to specify	NA in all coloumns to identify the end of the page. User can give any number of sheets to provide data in the first page. 
-
-This framework is licensed under Apache License, Version 2.0 
-
-
