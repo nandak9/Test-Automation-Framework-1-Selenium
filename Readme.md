@@ -1,7 +1,7 @@
 Test Automation frame work using Selenium
 ===============
 Selenium Open Source Testing Automation Framework is a framework which helps the tester in automating test execution of web applications without 
-recording or writing the selenium scripts.
+recording or writing the selenium scripts.  
 
 How to build
 -------------
